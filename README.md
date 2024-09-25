@@ -74,3 +74,30 @@ Chatgpt chat transcript: https://chatgpt.com/share/66eb3af2-e930-8004-af2c-12e57
 
 Colab implementation file: https://github.com/chandini2595/CMPE255_Assignment4/blob/main/Handwritten_Digit_Recognition_CNN.ipynb
 
+Youtube link: https://youtu.be/btEOpiChzyE
+
+Medium Link: https://medium.com/@chandinisaisri.uppuganti/handwritten-digit-recognition-using-cnn-32712647b827
+
+**Assignment 2: **
+
+Visual studio code github copilot extension (or you can use your favorite ai coding tool) and Use gpt-engineer to generate a project for visual studio code for your favorite application.
+
+GPT-Engineer is a tool that helps automate the process of creating software projects, including generating code and infrastructure based on natural language instructions. I have used github copilot and used gpt-engineer to develop to do list project by giving one prompt.
+
+Youtube link: https://youtu.be/4jABBNXqTEw
+
+Use screencast to demonstrate various usecases of this extension
+https://code.visualstudio.com/docs/editor/artificial-intelligence#_chat-view
+Writing functions and code
+Refactoring code
+Writing unit tests
+Writing entire app
+
+I have created end to end Reminder app and explained the same in youtube link provided. 
+
+Youtube Link: https://youtu.be/ATEoAtrqo40
+
+
+
+
+
