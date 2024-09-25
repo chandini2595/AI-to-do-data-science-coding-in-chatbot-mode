@@ -93,7 +93,7 @@ Refactoring code
 Writing unit tests
 Writing entire app
 
-I have created end to end Reminder app and explained the same in youtube link provided. 
+I have created end to end Reminder app and explained the same in youtube link provided and files are provided in github. 
 
 Youtube Link: https://youtu.be/ATEoAtrqo40
 
