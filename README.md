@@ -72,7 +72,7 @@ Deploying to the Cloud: Use cloud services such as AWS, Google Cloud, or Azure t
 
 Chatgpt chat transcript: https://chatgpt.com/share/66eb3af2-e930-8004-af2c-12e57bba1a11
 
-Colab implementation file: https://github.com/chandini2595/CMPE255_Assignment4/blob/main/Handwritten_Digit_Recognition_CNN.ipynb
+Colab implementation file: https://colab.research.google.com/drive/1thX9w2L4vBX6s8bRUJmXAoxgA1HHZ20i
 
 Youtube link: https://youtu.be/btEOpiChzyE
 
